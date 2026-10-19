@@ -5,7 +5,7 @@
       "name": "Druido",
       "file": "avatars/druido/druido.glb",
       "preview": "avatars/druido/anteprima.png",
-      "clips": ["idle", "walk", "wave", "sit", "dance"]
+      "clips": ["idle", "walk", "wave", "sit", "dance", "lontano", "capriola", "sguainare"]
     },
     {
       "id": "druido-cappuccio",
