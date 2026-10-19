@@ -1,0 +1,11 @@
+{
+  "avatars": [
+    {
+      "id": "druido",
+      "name": "Druido",
+      "file": "avatars/druido/druido.glb",
+      "preview": "avatars/druido/anteprima.png",
+      "clips": ["idle", "walk", "wave", "sit", "dance"]
+    }
+  ]
+}
