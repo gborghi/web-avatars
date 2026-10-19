@@ -12,7 +12,7 @@
       "name": "Druido col cappuccio",
       "file": "avatars/druido-cappuccio/druido-cappuccio.glb",
       "preview": "avatars/druido-cappuccio/anteprima.png",
-      "clips": ["idle", "walk", "camminare", "wave", "sit", "dance", "incantesimo"]
+      "clips": ["idle", "walk", "camminare", "wave", "sit", "dance", "incantesimo", "correre", "saltare", "bastone", "barba", "cappuccio"]
     }
   ]
 }

@@ -1,0 +1,47 @@
+Controllate sul fotogramma a metà clip, render Blender.
+
+Druido (Robin Hood), avatars/druido/druido.glb
+
+idle, wave, sit, dance
+Fatte. Clip già pubblicate, lasciate com'erano.
+
+walk
+Fatta. A metà clip è un passo, il corpo è intero, la spada non c'è.
+
+lontano
+Fatta. A metà clip la testa è girata di lato e inclinata in su, il corpo è intero, la spada non c'è.
+
+capriola
+Fatta. A metà clip il corpo è capovolto, un pezzo solo, senza spada.
+
+sguainare
+Fatta. A metà clip la spada è nella mano destra alzata, il corpo è intero. Nelle altre clip la spada resta nascosta.
+
+Druido col cappuccio, avatars/druido-cappuccio/druido-cappuccio.glb
+
+idle, wave, sit, dance
+Fatte. Riprese dalle clip già pubblicate.
+
+walk
+Fatta. A metà clip è un passo, il corpo è intero, il bastone è nella mano sinistra.
+
+camminare
+Fatta. È la stessa camminata di walk.
+
+incantesimo
+Fatta. A metà clip il bastone è alzato e la mano destra è aperta. Il corpo è intero.
+
+correre
+Fatta. A metà clip un ginocchio è alto: si legge la corsa. Il corpo è intero e il bastone è un pezzo solo nella mano.
+
+saltare
+Fatta. A metà clip i piedi e il saio sono staccati da terra, circa 24 cm. Il corpo è intero e il bastone è rigido.
+
+bastone
+Fatta. A metà clip il bastone è brandito in orizzontale sopra la testa, chiuso nella mano sinistra. Il corpo è intero.
+
+barba
+Fatta. A metà clip la mano destra è nella barba. Il saio resta un pezzo solo; la manica larga si apre e se ne vede l'interno.
+
+cappuccio
+Fatta. Al primo fotogramma il cappuccio a punta è in testa. A metà clip la punta è via: restano faccia, barba e cranio. Sulle spalle resta un bordo chiaro del saio.
