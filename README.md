@@ -5,10 +5,10 @@ Avatar 3D da importare in un'altra pagina. Il repo è pubblico: un sito non può
 ## Da un'altra app
 
 ```javascript
-import { avatar, play } from "https://cdn.jsdelivr.net/gh/gborghi/web-avatars@v1/avatars.js";
+import { avatar, play } from "https://cdn.jsdelivr.net/gh/gborghi/web-avatars@v2/avatars.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 
-const spec = await avatar("druido");
+const spec = await avatar("druido-cappuccio");
 const gltf = await new GLTFLoader().loadAsync(spec.url);
 const mixer = new THREE.AnimationMixer(gltf.scene);
 play(mixer, gltf.animations, "wave");
@@ -20,7 +20,7 @@ Le mosse vengono da clip Kimodo già pronte, licenza NVIDIA Open Model License. 
 
 Il file da solo, senza il modulo:
 
-`https://cdn.jsdelivr.net/gh/gborghi/web-avatars@v1/avatars/druido/druido.glb`
+`https://cdn.jsdelivr.net/gh/gborghi/web-avatars@v2/avatars/druido-cappuccio/druido-cappuccio.glb`
 
 ## Aggiungerne uno
 

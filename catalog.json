@@ -6,6 +6,13 @@
       "file": "avatars/druido/druido.glb",
       "preview": "avatars/druido/anteprima.png",
       "clips": ["idle", "walk", "wave", "sit", "dance"]
+    },
+    {
+      "id": "druido-cappuccio",
+      "name": "Druido col cappuccio",
+      "file": "avatars/druido-cappuccio/druido-cappuccio.glb",
+      "preview": "avatars/druido-cappuccio/anteprima.png",
+      "clips": ["idle", "walk", "wave", "sit", "dance"]
     }
   ]
 }
